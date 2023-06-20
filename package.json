@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "A playground for Node with TypeScript",
   "author": "Roberto Achar <robertoachar@gmail.com>",
+  "license": "MIT",
+  "private": true,
   "homepage": "https://github.com/robertoachar/workflow-typescript#readme",
   "keywords": [
     "node"
@@ -67,6 +69,5 @@
     "prettier": "2.0.5",
     "ts-node": "8.10.2",
     "typescript": "3.9.7"
-  },
-  "license": "MIT"
+  }
 }
