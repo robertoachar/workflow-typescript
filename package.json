@@ -14,8 +14,7 @@
     "src"
   ],
   "scripts": {
-    "start:js": "node main.js",
-    "start": "nodemon --watch src -e ts --exec ts-node src/index.ts",
+    "start": "tsx src/index.ts",
     "lint": "jest --config jest-eslint.config.js",
     "lint:watch": "jest --config jest-eslint.config.js --watch",
     "jest": "jest --config jest-test.config.js",
@@ -54,6 +53,7 @@
     "nodemon": "2.0.22",
     "prettier": "2.8.8",
     "ts-node": "10.9.1",
+    "tsx": "3.12.7",
     "typescript": "5.1.3"
   }
 }

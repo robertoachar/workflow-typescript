@@ -1,7 +1,7 @@
 import { add } from './math';
 
 const x = 50;
-const y = 20;
+const y = 50;
 
 const z = add(x, y);
 
