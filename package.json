@@ -7,7 +7,8 @@
   "private": true,
   "homepage": "https://github.com/robertoachar/workflow-typescript#readme",
   "keywords": [
-    "node"
+    "node",
+    "typescript"
   ],
   "exports": "./dist/index.js",
   "types": "./dist/index.d.ts",
